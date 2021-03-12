@@ -1,0 +1,23 @@
+{
+  "sports": [
+    { "id": 1, "mySports": ["Bouldering", "Hiking", "Canoeing", "Mountain biking", "Running"], "name": "Andre" },
+	{ "id": 2, "mySports": ["Table Tennis","Rowing"], "name": "Maxime" },
+	{ "id": 3, "mySports": ["Badminton"], "name": "Ralph" },
+	{ "id": 4, "mySports": ["Baseball", "Golf"], "name": "Christopher" },
+	{ "id": 5, "mySports": ["Skiing", "Surfing", "Sailing"], "name": "Michael" },
+	{ "id": 6, "mySports": ["Hiking"], "name": "Jennifer" },
+	{ "id": 7, "mySports": ["Swimming"], "name": "Amber" },
+	{ "id": 8, "mySports": ["Korfball"], "name": "Deborah" },
+	{ "id": 9, "mySports": ["Wakeboarding", "Biking"], "name": "Robert" },
+	{ "id": 10, "mySports": ["Ice hockey", "Waterpolo"], "name": "Esther" }
+  ],
+  "sportscategories": [
+    { "id": 1, "sports": ["Rock Climbing", "Biking", "Hiking ", "Canoeing","Sailing", "Skiing", "Horseback riding"], "category": "Outdoor" },
+	{ "id": 2, "sports": ["American Football","Basketball", "Baseball", "Volleyball", "Golf"], "category": "Ball" },
+	{ "id": 3, "sports": ["Swimming", "Canoeing ", "Kayaking", "Rowing", "Sailing", "Surfing"], "category": "Water" },
+	{ "id": 4, "sports": ["Badminton","Basketball", "Indoor Soccer", "Table Tennis", "Indoor Volleyball"], "category": "Indoor" }
+  ],
+  "names": [ 
+  { "names" : ["Andre", "Maxime", "Ralph", "Christopher", "Michael", "Jennifer", "Amber", "Deborah", "Robert", "Esther"] } 
+  ]
+}
